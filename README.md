@@ -46,7 +46,10 @@ THEN I am taken to the corresponding section of the README
 
 How to create a Professional README- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-Readme file with node js- https://www.youtube.com/watch?v=QFV7jzu8mKw&t=29s
+Readme file with node js- 
+1. https://www.youtube.com/watch?v=9ZHzhHiBwqc
+2. https://www.youtube.com/watch?v=OT63ATGrs5I
+3. https://www.youtube.com/watch?v=QFV7jzu8mKw&t=29s
 
 # Results
 Screencastify video- https://watch.screencastify.com/v/f3ulPBM3rYWz41tOXSDw
