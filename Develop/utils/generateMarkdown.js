@@ -41,7 +41,7 @@ ${data.credits}
 ${data.email}
 ${data.github}
 
-##License
+## License
 ${data.license}`;
 }}
 

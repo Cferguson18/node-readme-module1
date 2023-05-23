@@ -1,4 +1,4 @@
-# test
+# Test Readme
 ## Table of Content
 - [Product description](#Description)
 - [Usage](#Usage)
@@ -8,20 +8,20 @@
 - [License](#License)
 
 ## Description
-sdf
+showing how to create readme using node
 
 ## Usage
-sdf
+to use for repositories to make readme easier
 
 ## Installation
-sdf
+install inquerer
 
 ## Contributing
-sdf
+youtube tutorial listed in readme repo
 
 ## Questions
-sdf
-sdf
+cassieferguson18@gmail.com
+https://github.com/Cferguson18
 
-##License
+## License
 mit
